@@ -2,7 +2,7 @@
 A web-based project that dynamically fetches and displays random Titan data from the [Attack on Titan API](https://api.attackontitanapi.com/). With just a click, get detailed insights about powerful Titans, their abilities, allegiances, and both current and former inheritors — all styled with an eye-catching animated layout.
 
 ## 🎥 Demo
-<video src="Random Titan Generator - Brave 2024-05-17 20-00-10.mp4" width="100%" controls autoplay muted loop></video>
+https://github.com/user-attachments/assets/4c34ff11-ad08-4499-94a0-431c7e95168c
 
 ## 💡 Features
 - 🎲 Randomly generates Titan data with every click.
